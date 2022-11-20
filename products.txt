@@ -1,0 +1,17 @@
+[
+  {
+    "name": "guitarra",
+    "price": 2500,
+    "id": 1
+  },
+  {
+    "name": "cartas",
+    "price": 25,
+    "id": 2
+  },
+  {
+    "name": "juego",
+    "price": 250,
+    "id": 3
+  }
+]
